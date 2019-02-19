@@ -7,3 +7,5 @@ A simple JS number guesser.
 - Player can choose to play again.
 
 v0.1: GUI and functionality done. Numbers are fixed and need to reload to start a new game.
+
+v0.2: Pretty much complete. Winning number is random between 1 and 20. Turned the whole code to IIFE to avoid cheating.
