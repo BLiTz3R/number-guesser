@@ -1,4 +1,4 @@
-# number-guesser
+# number-guesser v1.0
 A simple JS number guesser.
 
 - Player must guess a number between 1 and 10.
@@ -8,4 +8,4 @@ A simple JS number guesser.
 
 v0.1: GUI and functionality done. Numbers are fixed and need to reload to start a new game.
 
-v0.2: Pretty much complete. Winning number is random between 1 and 10. It now informs the player if the winning number is higher or lower than their guess. Turned the whole code to IIFE to avoid cheating.
+v1.0: Winning number is random between 1 and 10. It now informs the player if the winning number is higher or lower than their guess. Turned the whole code to IIFE to avoid cheating.
