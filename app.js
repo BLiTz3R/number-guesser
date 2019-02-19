@@ -9,7 +9,7 @@
 
     // Game values
     let min = 1,
-        max = 20,
+        max = 10,
         winningNum = getRandomNum(min, max),
         attemptsLeft = 3;
 
