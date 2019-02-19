@@ -1,4 +1,4 @@
-# number-guesser v1.0
+# Number Guesser v1.0
 A simple JS number guesser.
 
 - Player must guess a number between 1 and 10.
