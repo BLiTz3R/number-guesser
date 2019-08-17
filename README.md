@@ -6,6 +6,6 @@ A simple JS number guesser.
 - Winning number is always shown in the end.
 - Player can choose to play again after game over.
 
-v0.1: GUI and functionality done. Numbers are fixed and need to reload to start a new game.
+v0.1: GUI and functionality done. Numbers are fixed, need to reload to start a new game.
 
-v1.0: Winning number is random between 1 and 10. It now informs the player if the winning number is higher or lower than their guess. Turned the whole code to IIFE to avoid cheating.
+v1.0: Winning number is random between 1 and 10. It now informs the player if the winning number is higher or lower than their guess. Turned the whole code to IIFE to - kinda - prevent cheating.
